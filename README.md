@@ -1,1 +1,1 @@
-# Flappy-Master
+# Flappy-Bird-Game with JavaScript
